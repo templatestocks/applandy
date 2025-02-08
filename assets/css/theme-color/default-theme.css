@@ -1,0 +1,96 @@
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+
+.menu-wrap li a:hover,
+.menu-wrap li a:focus,
+.main-nav a:hover,
+.main-nav a:focus,
+.main-nav li.active a,
+.title-area .title span,
+.features-list li:hover .features-content h4,
+.single-plan-head p > span,
+.testi-company,
+.testi-text:before,
+.subcr-form i,
+.home-btn a:hover,
+.home-btn a:focus,
+.wpf-blog-title a:hover,
+.wpf-blog-title a:focus,
+.breadcrumb span,
+.wpf-blog-meta li a:hover,
+.wpf-blog-meta li a:focus,
+.wpf-read-more-btn:hover,
+.wpf-read-more-btn:focus,
+.pagination > li > a, 
+.pagination > li > span,
+.single-widget ul li a:hover,
+.single-widget ul li a:focus,
+.tagcloud a:hover,
+.tagcloud a:focus,
+.features-list i:hover,
+.wpf-comments-area .comments .commentlist li .reply-btn:hover, 
+.wpf-comments-area .comments .commentlist li .reply-btn:focus,
+.wpf-comments-area .comments .comments-pagination li a:hover, 
+.wpf-comments-area .comments .comments-pagination li a:focus {
+  color: #c762cb;
+}
+
+.download-btn,
+.title-area .title::before,
+.features-list li:hover .fa,
+.feature-price .single-plan-head,
+.single-plan-bottom .signup-btn,
+.screenshots-slide .slick-dots li button:hover,
+.screenshots-slide .slick-dots li.slick-active button,
+.single-download:hover,
+.single-download:focus,
+.testimonial-slider .slick-dots li.slick-active,
+.subcr-form .subcr-btn,
+.send-btn:hover,
+.send-btn:focus,
+.pagination > li > a:hover, 
+.pagination > li > span:hover,
+.pagination > li > a:focus, 
+.pagination > li > span:focus,
+.pagination > li .current,
+.features-list i:hover,
+.wpf-comments-area .comments .commentlist li .author-tag,
+#respond input[type="submit"]:hover {
+  background-color: #c762cb;
+}
+
+.screenshots-slide li a:hover,
+.contact-form .form-control:focus,
+.wpf-read-more-btn:hover,
+.wpf-read-more-btn:focus,
+.pagination > li > a:hover, 
+.pagination > li > span:hover,
+.pagination > li > a:focus, 
+.pagination > li > span:focus,
+.pagination > li .current,
+.tagcloud a:hover,
+.tagcloud a:focus,
+.wpf-comments-area .comments .commentlist li .reply-btn:hover, 
+.wpf-comments-area .comments .commentlist li .reply-btn:focus,
+.wpf-comments-area .comments .comments-pagination li:first-child a:hover,
+.wpf-comments-area .comments .comments-pagination li:last-child a:hover,
+.wpf-comments-area .comments .comments-pagination li:first-child a:focus,
+.wpf-comments-area .comments .comments-pagination li:last-child a:focus,
+#respond input[type="text"]:focus,
+#respond input[type="email"]:focus,
+#respond input[type="url"]:focus,
+#respond textarea:focus,
+#respond input[type="submit"]:hover {
+  border-color: #c762cb;  
+}
+
+
+
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
