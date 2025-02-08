@@ -1,4 +1,4 @@
-# applandy
+# Applandy
 Free app landing page template
 
 Preview: https://templatestocks.com/preview/?demo=applandy
